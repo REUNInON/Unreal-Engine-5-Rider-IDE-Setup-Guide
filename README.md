@@ -13,7 +13,7 @@
 2. Install Rider via [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/) (Recommended) or from [JetBrains Website](https://www.jetbrains.com/rider/download/#section=windows).
 3. Install .NET SDKs from [Microsoft](https://dotnet.microsoft.com/en-us/download)
 
-### Visual Studio 2022 Installation (It is required for setup)
+### Visual Studio 2026 Installation (It is required for setup)
 
 1. Install Visual Studio 2022 from [Microsoft](https://visualstudio.microsoft.com/downloads/). If you are unsure, go with the Community Edition.
 2. Make sure to check these *workloads* before installation:
@@ -21,7 +21,7 @@
     - **Game development with C++** In **Installation Details** make sure to mark **Unreal Engine installer**  
 
     *What to do if you missed workload installation step:*
-    - Open **Visual Studio Installer** app. (It is installed alongside of VS 2022).
+    - Open **Visual Studio Installer** app. (It is installed alongside of VS 2026).
     - Click on *Modify* button, then you can select the *workloads* that you've missed.
 
 ### Last Steps
